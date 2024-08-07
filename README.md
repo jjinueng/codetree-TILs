@@ -1,1 +1,1 @@
-[![코드트리|실력진단-skymap02](https://banner.codetree.ai/v1/banner/skymap02)](https://www.codetree.ai/profiles/skymap02)
+[![코드트리|실력진단-jjinueng](https://banner.codetree.ai/v1/banner/jjinueng)](https://www.codetree.ai/profiles/jjinueng)
