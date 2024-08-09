@@ -5,4 +5,4 @@ let temp = b;
 b = a;
 a = temp;
 
-console.log(a, b);
+console.log(Number(a), Number(b));
